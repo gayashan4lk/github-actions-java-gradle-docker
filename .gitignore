@@ -3,7 +3,3 @@
 .gradle/*
 out/
 build/
-
-# Project exclude paths
-/gradle/
-/src/
